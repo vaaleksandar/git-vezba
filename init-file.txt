@@ -1,0 +1,2 @@
+"#init file" 
+"nova linija #123" 
